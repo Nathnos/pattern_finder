@@ -1,5 +1,6 @@
 # pattern_finder
-A script that tries to find a specific pattern in all files of a folder (and optionally its subfolders). Capital or lowercase are not taken into acount.
+A script that tries to find a specific pattern in all files of a folder (and optionally its subfolders). Capital or lowercase are not taken into acount.  
+If you want a light version, without image reading, please go https://github.com/Nathnos/simple_pattern_finder
 
 Examples of use :
 --------
@@ -14,9 +15,6 @@ Examples of use :
 
 - If you copied the script folder in your Document folder, which also contain "my_pdf" directory, and you want to find out which pdf are about cats
 <code>python3 pattern_finder.py -sf --pdf --path "my_pdf" --pattern "cat"</code>
-
-- To use the simple script - only .py file needed; better for copying it to your work directory :  
-<code>python3 simple_pattern_finder.py</code>
 
 Arguments :
 --------
