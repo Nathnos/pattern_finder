@@ -15,6 +15,9 @@ Examples of use :
 - If you copied the script folder in your Document folder, which also contain "my_pdf" directory, and you want to find out which pdf are about cats
 <code>python3 pattern_finder.py -sf --pdf --path "my_pdf" --pattern "cat"</code>
 
+- To use the simple script - only .py file needed; better for copying it to your work directory :  
+<code>python3 simple_pattern_finder.py</code>
+
 Arguments :
 --------
 __-p, --pattern :__
