@@ -1,0 +1,6 @@
+odfpy==1.4.0
+PyPDF2==1.26.0
+python-docx==0.8.10
+opencv-python==4.1.0.25
+pytesseract==0.2.6
+Pillow==6.0.0

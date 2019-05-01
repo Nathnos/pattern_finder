@@ -1,0 +1,5 @@
+You need to install requirements :
+pip3 install -r requirements.txt
+
+For image seach, you also need to install tesseract-ocr :
+sudo apt install tesseract-ocr
