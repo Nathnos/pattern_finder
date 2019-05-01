@@ -29,4 +29,4 @@ Search also in PDF documents. Can be long.
 __-i, --ignore :__
 Ignore all folders and files with a specific name. To define multiples forbidden folder and file names, put a slash between each : fold1/fold2/readme.md  
 __--image :__
-Also search the pattern in images. You'll need tesseract to use this option. Don't work very well, anyways. Can be quite long. Extensions allowed : png, jpg, jpeg, bmp and webp  
+Also search the pattern in images. You'll need tesseract to use this option. Don't work very well, anyways. Can be quite long. Extensions allowed : png, jpg, jpeg, bmp and webp. Also extracts images from .odt and .docx files (but not pdf).
