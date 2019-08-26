@@ -1,4 +1,6 @@
 # pattern_finder
+Grep, but with less features, except a pretty unsatisfying search in images, with tesseract-ocr
+
 A script that tries to find a specific pattern in all files of a folder (and optionally its subfolders). Capital or lowercase are not taken into acount.  
 If you want a light version, without image reading, please go https://github.com/Nathnos/simple_pattern_finder
 
